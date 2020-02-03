@@ -1,7 +1,7 @@
 package org.example;
 import java.util.ArrayList;
 public class gift {
-    ArrayList<sweets> sl=new ArrayList<>();
+    ArrayList<sweets> sl;
     String message;
     int tweight;
 

@@ -5,7 +5,7 @@ public abstract class sweets implements Comparable<sweets> {
     int weight;
     int calories;
     int price;
-    public sweets(){}
+
     public sweets(String name, int weight,int calories,  int price) {
         this.name = name;
         this.weight = weight;

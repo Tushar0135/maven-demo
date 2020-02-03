@@ -6,7 +6,7 @@ public class child {
     String name;
     int age;
     ArrayList<gift> gifts=new ArrayList<gift>();
-    public child(){}
+
     public child(String name, int age) {
         this.name = name;
         this.age = age;
